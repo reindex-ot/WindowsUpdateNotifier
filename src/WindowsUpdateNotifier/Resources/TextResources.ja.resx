@@ -171,7 +171,7 @@ Windows Update Notifier を管理者権限で実行する必要があります�
     <value>Windows Update Notifier をWindows の起動時に実行する</value>
   </data>
   <data name="Label_UseMetroStyleForPopup" xml:space="preserve">
-    <value>Modern UIの通知ポップアップを使用する</value>
+    <value>Modern UI の通知ポップアップを使用する</value>
   </data>
   <data name="Menu_Exit" xml:space="preserve">
     <value>終了</value>
@@ -216,7 +216,7 @@ Windows Update Notifier を管理者権限で実行する必要があります�
     <value>Windows Update サービスと接続を確立できません。</value>
   </data>
   <data name="ToolTip_NothingFound" xml:space="preserve">
-    <value>更新プログラムはありません。</value>
+    <value>Windows は最新の状態です</value>
   </data>
   <data name="ToolTip_Searching" xml:space="preserve">
     <value>更新プログラムを確認しています・・・</value>
