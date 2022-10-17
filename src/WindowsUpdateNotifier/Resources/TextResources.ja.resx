@@ -124,17 +124,17 @@
     <value>OK</value>
   </data>
   <data name="Label_AutoInstallComment" xml:space="preserve">
-    <value>この機能は、Windows Defenderの更新プログラムを自動的にダウンロードし、インストールします。ほかの更新プログラムはこの機能を有効化しても影響を受けません。</value>
+    <value>この機能は、Windows Defender の更新プログラムを自動的にダウンロードし、インストールをします。他の更新プログラムはこの機能を有効化しても影響を受けません。</value>
   </data>
   <data name="Label_AutoInstallNotAvailable" xml:space="preserve">
-    <value>Windows Defenerの更新プログラムの自動インストールオプションを有効にするには、
-Windows Update Notifierを管理者権限で実行する必要があります。</value>
+    <value>Windows Defener の更新プログラムの自動インストールオプションを有効にするには、
+Windows Update Notifier を管理者権限で実行する必要があります。</value>
   </data>
   <data name="Label_AutoInstallSettings" xml:space="preserve">
     <value>自動インストール</value>
   </data>
   <data name="Label_AutoInstallWindowsDefenderUpdates" xml:space="preserve">
-    <value>Windows Defenderの更新プログラムの自動インストール</value>
+    <value>Windows Defender の更新プログラムの自動インストール</value>
   </data>
   <data name="Label_CommonSettings" xml:space="preserve">
     <value>全般</value>
@@ -146,10 +146,10 @@ Windows Update Notifierを管理者権限で実行する必要があります。
     <value>ヘルプ</value>
   </data>
   <data name="Label_HideIcon" xml:space="preserve">
-    <value>更新プログラムがない場合はトレイアイコンを非表示</value>
+    <value>更新プログラムがない場合は通知アイコンを非表示にする</value>
   </data>
   <data name="Label_HowToStartAsAdmin" xml:space="preserve">
-    <value>詳しくはここを参照</value>
+    <value>詳細はこちらを参照</value>
   </data>
   <data name="Label_IsLatestVersion" xml:space="preserve">
     <value>(最新バージョン)</value>
@@ -158,29 +158,29 @@ Windows Update Notifierを管理者権限で実行する必要があります。
     <value>分</value>
   </data>
   <data name="Label_NewVersion" xml:space="preserve">
-    <value>(新しいバージョン{0}があります)</value>
+    <value>(新しいバージョン{0} があります)</value>
   </data>
   <data name="Label_RefreshInterval" xml:space="preserve">
     <value>更新プログラムを確認する頻度</value>
   </data>
   <data name="Label_SavingSettingsFailed" xml:space="preserve">
     <value>設定の保存に失敗しました。
-管理者権限で起動し、再度実行してください。</value>
+管理者権限で起動し、再度実行をしてください。</value>
   </data>
   <data name="Label_SetAsAutoStartup" xml:space="preserve">
-    <value>Windows Update NotifierをWindows起動時に実行する。</value>
+    <value>Windows Update Notifier をWindows の起動時に実行する</value>
   </data>
   <data name="Label_UseMetroStyleForPopup" xml:space="preserve">
-    <value>メトロスタイルの通知ポップアップを使う。</value>
+    <value>Modern UIの通知ポップアップを使用する</value>
   </data>
   <data name="Menu_Exit" xml:space="preserve">
     <value>終了</value>
   </data>
   <data name="Menu_NewVersion" xml:space="preserve">
-    <value>新しいバージョン{0}があります！</value>
+    <value>新しいバージョン{0} があります!</value>
   </data>
   <data name="Menu_NoConnection" xml:space="preserve">
-    <value>インターネットにつながっていません。</value>
+    <value>インターネットが未接続です。</value>
   </data>
   <data name="Menu_Settings" xml:space="preserve">
     <value>設定</value>
@@ -189,31 +189,31 @@ Windows Update Notifierを管理者権限で実行する必要があります。
     <value>更新プログラムの確認</value>
   </data>
   <data name="Menu_WindowsUpdates" xml:space="preserve">
-    <value>Windows Updateを開く</value>
+    <value>Windows Update を開く</value>
   </data>
   <data name="Popup_ClickToOpen" xml:space="preserve">
-    <value>ここをクリックまたはタップしてWindows Updateを開きます。</value>
+    <value>クリックをしてWindows Update を開きます。</value>
   </data>
   <data name="Popup_OneUpdateAvailableMessage" xml:space="preserve">
-    <value>1個の更新プログラムがあります。</value>
+    <value>1 件の更新プログラムがあります。</value>
   </data>
   <data name="Popup_UpdatesAvailableMessage" xml:space="preserve">
-    <value>{0} 個の更新プログラムがあります。</value>
+    <value>{0} 件の更新プログラムがあります。</value>
   </data>
   <data name="Popup_UpdatesAvailableTitle" xml:space="preserve">
-    <value>Windows Updateがあります。</value>
+    <value>Windows の更新があります</value>
   </data>
   <data name="Popup_UpdatesInstalledMessage" xml:space="preserve">
-    <value>新しいWindows Updateがすでにインストールされています。</value>
+    <value>Windows は最新の状態です</value>
   </data>
   <data name="Popup_UpdatesInstalledTitle" xml:space="preserve">
-    <value>Windows Updateがインストールされています。</value>
+    <value>最新の状態です</value>
   </data>
   <data name="ToolTip_DisableNotifications" xml:space="preserve">
     <value>新しい更新プログラムがある時または、更新プログラムが自動的にインストールされた時に通知しません。</value>
   </data>
   <data name="ToolTip_NoConnection" xml:space="preserve">
-    <value>Windows Updateサービスと接続を確立できません。</value>
+    <value>Windows Update サービスと接続を確立できません。</value>
   </data>
   <data name="ToolTip_NothingFound" xml:space="preserve">
     <value>更新プログラムはありません。</value>
@@ -222,8 +222,8 @@ Windows Update Notifierを管理者権限で実行する必要があります。
     <value>更新プログラムを確認しています・・・</value>
   </data>
   <data name="ToolTip_UseMetroStyleForPopup" xml:space="preserve">
-    <value>チェックを入れるとメトロスタイルの表示で通知します。
-チェックが外れている場合はWindows 7風のバルーンで通知します。</value>
+    <value>チェックを入れるとModern UI で通知を表示します。
+チェックが外れている場合は、Windows 7 風のバルーン通知で表示します。</value>
   </data>
   <data name="WindowTitle_Settings" xml:space="preserve">
     <value>Windows Update Notifier</value>
